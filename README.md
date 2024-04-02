@@ -8,6 +8,10 @@ As I prepare to step into the next phase of my career, I'm excited to continue s
 . I'm always eager to learn and improve.
 
 
+## Projects
+[Catering Management Project 2023](https://github.com/blooming813/.Net-Core-MVC-Project-Catering-Management-Project)
+
+
 <h2>Things I code with</h2>
 
 [![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/HTML)

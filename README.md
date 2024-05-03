@@ -27,6 +27,9 @@ As I prepare to step into the next phase of my career, I'm excited to continue s
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff)](https://www.sqlite.org/index.html)
 [![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=for-the-badge&logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/apps/maui)
 [![MVC](https://img.shields.io/badge/-MVC-3776AB?style=for-the-badge&logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/apps/aspnet/mvc)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=ffffff)](https://wordpress.org/)
+
 <!--
 <h3>Open source projects</h3>
 <table>

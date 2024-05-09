@@ -11,7 +11,7 @@ As I prepare to step into the next phase of my career, I'm excited to continue s
 ## Projects
 - [WMBA Project with C# MVC 2024](https://github.com/blooming813/.Net-Core-MVC-Project-WMBA)
 - [Catering Management Project 2023](https://github.com/blooming813/.Net-Core-MVC-Project-Catering-Management-Project)
-- [Candle Website Design Project 2022](https://github.com/blooming813/Web-Design-Project)
+- [Candle Website Design Project 2022](https://github.com/blooming813/WebDesign-CandleShop)
 
 
 

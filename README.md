@@ -9,10 +9,10 @@ As I prepare to step into the next phase of my career, I'm excited to continue s
 
 
 ## Projects
+- [Fashion Website Design Project 2024](https://github.com/blooming813/WebDesign-Ecommerce-Fashion)
 - [WMBA Project with C# MVC 2024](https://github.com/blooming813/.Net-Core-MVC-Project-WMBA)
 - [Catering Management Project 2023](https://github.com/blooming813/.Net-Core-MVC-Project-Catering-Management-Project)
 - [Candle Website Design Project 2022](https://github.com/blooming813/WebDesign-CandleShop)
-
 
 
 <h2>Things I code with</h2>
